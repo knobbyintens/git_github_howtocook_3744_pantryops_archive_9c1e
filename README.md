@@ -1,2 +1,4 @@
-# git_github_howtocook_3744_pantryops_archive_9c1e
-Frozen archival mirror of PantryOps (read-only)
+# PantryOps archival mirror
+
+Frozen mirror snapshot kept for audit purposes only. Nothing in this
+repository is maintained and it must not be edited.
